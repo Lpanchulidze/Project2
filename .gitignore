@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+# Test Automation Engineering Bootcamp gitignore example
+
+.idea/
+build/
+target/
+
+*.ipr
+*.iml
+*.iws
+*.log
+*.mdmp
